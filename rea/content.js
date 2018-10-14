@@ -1,0 +1,1 @@
+'use strict';(function(b){var a=function(){b.extension.sendMessage({method:"source@firefox",source:document.body.textContent},function(){})};"complete"===document.readyState?a():window.addEventListener("load",a,!1)})(window.rea);
